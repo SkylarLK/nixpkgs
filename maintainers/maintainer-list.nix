@@ -23111,6 +23111,12 @@
     githubId = 3789764;
     name = "skykanin";
   };
+  skylarlk = {
+    email = "SkylarLK@proton.me";
+    github = "SkylarLK";
+    githubId = 147355821;
+    name = "Skylar LK";
+  };
   skyrina = {
     email = "sorryu02@gmail.com";
     github = "skyrina";
